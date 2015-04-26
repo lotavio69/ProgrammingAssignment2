@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This file has been committed in order to satisfy the first half of the exercise.
+## I did not have enough time to complete the second half. Please accept my apologies.
 
 ## Write a short comment describing this function
 
